@@ -18,7 +18,7 @@ We are still working on allowing for more complex projects. We believe that Noti
 
 ## Contributing
 
-If you develop your own MotionLink websites, feel free to make a PR for it to be listed here. You can learn more about Motionlink [here](https://motionlink.lytowl.com/docs/How%20it%20works).
+If you develop your own MotionLink websites, feel free to [make a PR](https://github.com/oreal-solutions/motionlink-websites) for it to be listed here. You can learn more about Motionlink [here](https://motionlink.lytowl.com/docs/How%20it%20works).
 
 ## About Motionlink
 
