@@ -8,13 +8,13 @@ We are still working on allowing for more complex projects. We believe that Noti
 
 ## Websites
 
-1. Team Blogger - Blog about travel, news, photography, tech, food, or whatever you're into with this clean team blogging website. You can blog alone or with a team on the same website. Live demo available [here](https://team-blogger-template.netlify.app).
+1. [Team Blogger](https://github.com/oreal-solutions/team-blogger-template) - Blog about travel, news, photography, tech, food, or whatever you're into with this clean team blogging website. You can blog alone or with a team on the same website. Live demo available [here](https://team-blogger-template.netlify.app).
 
-2. Dev Portfolio - Add more life to your CV with a clean dev portfolio website. The website is lightweight, fully responsive, and great for students. Just add your information and go. See live demo [here](https://dev-portfolio-template-motionlink.netlify.app).
+2. [Dev Portfolio](https://github.com/bats64mgutsi/dev-portfolio-template) - Add more life to your CV with a clean dev portfolio website. The website is lightweight, fully responsive, and great for students. Just add your information and go. See live demo [here](https://dev-portfolio-template-motionlink.netlify.app).
 
-3. Eternity Portfolio - A beautifully designed portfolio website for visual artists. Live demo available [here](https://eternity-template.netlify.app).
+3. [Eternity Portfolio](https://github.com/oreal-solutions/eternity-template) - A beautifully designed portfolio website for visual artists. Live demo available [here](https://eternity-template.netlify.app).
 
-4. Agile Manifesto - This is a single page website that shows the contents of its Notion dashboard page and can be used to quickly share ideas. You can add add text, images and other media. Demo available [here](https://agile-manifesto-template.netlify.app).
+4. [Agile Manifesto](https://github.com/oreal-solutions/agile-manifesto-template) - This is a single page website that shows the contents of its Notion dashboard page and can be used to quickly share ideas. You can add add text, images and other media. Demo available [here](https://agile-manifesto-template.netlify.app).
 
 ## Contributing
 
