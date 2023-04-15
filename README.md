@@ -4,7 +4,7 @@ A collection of [Motionlink websites](https://motionlink.lytowl.com/docs/Install
 
 Each website has a Notion OS/template. This template must be duplicated into your workspace for Motionlink to install the website and set it up for deployment to Netlify. This process is automatic. Instructions on how to install websites can be found [here](https://motionlink.lytowl.com/docs/Installing%20websites).
 
-We are still working on allowing for more complex projects. We believe that Notion can be the only dashboard you need. We do not know how excatly yet, but we are slowly making progress.
+We are still working on allowing for more complex projects. We believe that Notion can be the only dashboard you need. We do not know how exactly yet, but we are slowly making progress.
 
 ## Websites
 
